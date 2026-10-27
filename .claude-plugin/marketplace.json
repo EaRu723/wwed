@@ -1,6 +1,9 @@
 {
   "name": "wwed",
-  "owner": { "name": "Andrea Russo" },
+  "description": "WWED: What Would Elon Do, a first-principles plan teardown skill for Claude.",
+  "owner": {
+    "name": "Andrea Russo"
+  },
   "plugins": [
     {
       "name": "wwed",
