@@ -1,0 +1,8 @@
+{
+  "name": "wwed",
+  "description": "What Would Elon Do: tear down a plan in Elon Musk's voice using his first-principles operating method.",
+  "version": "1.0.0",
+  "author": { "name": "Andrea Russo" },
+  "repository": "https://github.com/EaRu723/wwed",
+  "license": "MIT"
+}

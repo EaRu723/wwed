@@ -1,0 +1,11 @@
+{
+  "name": "wwed",
+  "owner": { "name": "Andrea Russo" },
+  "plugins": [
+    {
+      "name": "wwed",
+      "source": "./",
+      "description": "What Would Elon Do: tear down a plan in Elon Musk's voice using his first-principles operating method."
+    }
+  ]
+}
