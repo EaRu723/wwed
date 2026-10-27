@@ -1,6 +1,10 @@
 # WWED — What Would Elon Do
 
+> **The only constraint is physics.**
+
 **A Claude skill that tears down your plan in Elon's voice, using his actual operating method.**
+
+Everything else is a choice someone made: timelines, costs, "industry standard," "that's impossible." WWED computes what physics actually allows for your plan, measures how far reality is from that, and then deletes everything in the gap.
 
 Type `WWED` plus whatever you're working on (a roadmap, a launch plan, a budget, a hiring plan, a product spec). Claude answers terse, blunt, in probabilities, with maniacal urgency, and runs your plan through the principles Musk has publicly described:
 
