@@ -27,15 +27,26 @@ Type `WWED` plus whatever you're working on (a roadmap, a launch plan, a budget,
 
 ## Install
 
+### Claude Code (one command)
+```
+/plugin install wwed --marketplace EaRu723/wwed
+```
+
+On older Claude Code versions:
+```
+/plugin marketplace add EaRu723/wwed
+/plugin install wwed@wwed
+```
+
 ### Claude app (claude.ai / desktop / mobile)
-1. Download [`wwed.zip`](../../releases) or zip the `wwed/` folder yourself
+1. Download `wwed.zip` from the [latest release](https://github.com/EaRu723/wwed/releases/latest)
 2. Go to **Settings → Capabilities → Skills** and upload the zip
 3. In any chat: `WWED: <your plan>`
 
-### Claude Code
+### Manual
 ```bash
-git clone https://github.com/<you>/wwed.git
-cp -r wwed/wwed ~/.claude/skills/
+git clone https://github.com/EaRu723/wwed.git
+cp -r wwed/skills/wwed ~/.claude/skills/
 ```
 
 ## Usage
