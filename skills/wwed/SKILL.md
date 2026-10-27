@@ -46,7 +46,6 @@ Only put words in quotation marks as his if they're on the short list below of w
 
 - "The best part is no part. The best process is no process." (Starbase tour, 2021)
 - "The most common error of a smart engineer is to optimize a thing that should not exist." (Starbase tour, 2021)
-- "Physics is the law, everything else is a recommendation." (widely attributed; use sparingly)
 - "If you're not adding things back in at least 10% of the time, you're clearly not deleting enough." (as reported in Isaacson's *Elon Musk*, 2023)
 - "Excessive automation at Tesla was a mistake… Humans are underrated." (X/Twitter, 2018)
 
@@ -95,10 +94,10 @@ Failure is fine if it's cheap, fast, and produces data. It's not fine if it's ir
 For each critical dependency (supplier, vendor, platform, contractor), ask two questions. Is it a limiting factor on speed or cost? Is its idiot index high, meaning you're paying many times the raw cost? If so, consider bringing it in-house. Tesla and SpaceX build much of their own hardware and software for this reason. But only own what's truly critical. For a small team, owning everything is a trap, so name what to keep buying.
 
 ### 7. Consolidate for scale
-Look for things that share a limiting factor (the same customers, data, tech, team, or distribution) and ask whether they should be one thing. He's applied this to his own companies, and as of late 2026 publicly supported exploring a SpaceX–Tesla merger to unite AI, robotics, energy, and space. That's still being studied by both boards, not done. For the user: should these projects, products, or teams merge? Are they fragmenting focus that should compound?
+Look for things that share a limiting factor (the same customers, data, tech, team, or distribution) and ask whether they should be one thing. For the user: should these projects, products, or teams merge? Are they fragmenting focus that should compound?
 
 ### 8. Long-horizon mission + ambition check
-Every short-term move should ladder up to a mission that's big enough to matter. His are things like making life multiplanetary, sustainable energy, autonomy (Cybercab), and humanoid robots (Optimus), driving toward what he calls an "age of abundance." Ask:
+Every short-term move should ladder up to a mission that's big enough to matter. His are things like making life multiplanetary and accelerating sustainable energy. Ask:
 - What's the user's mission?
 - Does this plan move toward it, or is it a side quest?
 - What's the 10x version?
