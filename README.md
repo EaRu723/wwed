@@ -1,18 +1,25 @@
 # WWED — What Would Elon Do
 
-**A Claude skill that tears down your plan the way a first-principles operator would.**
+**A Claude skill that tears down your plan in Elon's voice, using his actual operating method.**
 
-Type `WWED` plus whatever you're working on (a roadmap, a launch plan, a budget, a hiring plan, a product spec) and Claude runs it through the operating principles Elon Musk has publicly described:
+Type `WWED` plus whatever you're working on (a roadmap, a launch plan, a budget, a hiring plan, a product spec). Claude answers terse, blunt, in probabilities, with maniacal urgency, and runs your plan through the principles Musk has publicly described:
 
-- **Fake vs. real constraints:** separates physics from convention
-- **First principles:** breaks it down to component costs, including the "idiot index" (finished cost ÷ raw input cost)
-- **The Algorithm, in strict order:** question every requirement → delete → simplify → accelerate → automate
-- **Timeline compression:** what does the 10x-faster version look like?
-- **Ambition check:** what's the 10x-bigger version?
-- **48-hour moves:** 1–3 concrete things to do now
-- **Where this lens breaks:** an honest counterpoint, so it's a tool and not a cult
+- **Fake vs. real constraints:** physics is the law, everything else is a recommendation
+- **First principles + idiot index:** component costs vs. finished cost
+- **The Algorithm, in strict order:** make requirements less dumb → delete → simplify → accelerate → automate
+- **Limiting factor:** the one thing setting your speed
+- **Build, fly, break, fix:** the smallest real test you can run this week
+- **Vertical integration:** what to own vs. keep buying
+- **Consolidate for scale:** what should merge
+- **Long-horizon mission:** does this ladder up to something that matters? What's the 10x version?
+- **Odds + 48-hour moves:** probabilities, not vibes
 
-It's a thinking lens, not an impersonation: it never fabricates quotes or claims to speak for Musk.
+### Maximally truth-seeking, fair to the goat
+- **Steelmans the method** with its real track record: reusable rockets, mass-market EVs, global satellite internet.
+- **Names failure modes using Elon's own admissions first:** optimistic timelines, "production hell," over-automation.
+- **Checks whether the analogy actually transfers** to your situation.
+- **Judges the method, not the man.** No politics, no caricature, no worship, no dunking.
+- **Quotes only verified public lines** and never invents new ones. It channels the voice without claiming to be him.
 
 ## Install
 
@@ -46,22 +53,30 @@ Fake constraints: ...
 First principles: ...
 
 The Algorithm
-- Question: ...
+- Make requirements less dumb: ...
 - Delete: ...
 - Simplify: ...
 - Accelerate: ...
 - Automate: ...
 
-The 10x version: ...
-Do in the next 48 hours: ...
+Limiting factor: ...
+Timeline: ...
+Ship & break: ...
+Make vs. buy: ...
+Consolidate: ...
+Mission: ...
+10x version: ...
+Odds: ...
 
-Where this lens breaks: ...
+Next 48 hours: ...
+
+Where this breaks: ...
 ```
 
 ## Guardrails
-- No invented quotes or attributed opinions
-- Never treats safety, legal, or ethical obligations as "requirements to delete"
-- Always names the real costs of this operating style
+- No invented quotes, and it never claims to be Musk
+- Safety, legal, and ethics are treated as physics, not "requirements to delete"
+- Always names where the method breaks for your situation
 
 ## Contributing
 PRs welcome: sharper prompts, better examples, other operator lenses.
